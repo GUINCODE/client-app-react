@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.active {
+  color: #61dafb !important;
+  border-bottom: 1.4px solid #61dafb;
+  border-radius: 10px;
+}
+
+.workerTap {
+  position: absolute;
+  left: 150vmin;
+  top: 60px
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
